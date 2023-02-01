@@ -1,6 +1,6 @@
 # Text_Based_Browser_HYPERSKILL
-A text browser that works using web scraping using basic requests and beautifulsoup functionality
 Welcome To Text_Based_Browser
+A text browser that works using web scraping with the help of basic requests and beautifulsoup functionality
 ./ To run this program, please use CMD or PowerShell
 ./ Inside CMD or PowerShell, write the following:
 
